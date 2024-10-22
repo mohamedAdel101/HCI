@@ -1,0 +1,27 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\lenovo\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\lenovo\Desktop\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master (3)\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\bin\Debug\arrow.png
+C:\Users\Omar\Downloads\Lab 2 - TUIO + GUI-20241009\TUIO11_NET-master\bin\Debug\arrow2.png
